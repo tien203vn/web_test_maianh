@@ -1,0 +1,12 @@
+node_modules
+vendor
+.env
+.git
+.idea
+.vscode
+storage/*.key
+storage/logs
+storage/framework
+bootstrap/cache
+*.sql
+*.md
